@@ -3,9 +3,6 @@ package kc;
 /**
  * 変数を表すクラス
  * タイプ、名前、アドレス、サイズを持つ
- * @author 19-1-037-0032 竹田有真
- * 問題番号: 問題2.10
- * 提出日: 2021年5月12日
  */
 class Var {
 	// フィールド
@@ -73,5 +70,4 @@ class Var {
 	public int getSize() {
 		return size;
 	}
-
 }

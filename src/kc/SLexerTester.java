@@ -5,7 +5,7 @@ package kc;
  */
 class SLexerTester {
     static SLexicalAnalyzer lexer;  // 試験対象となる字句解析器 
-    
+
     public static void main(String[] args) {
         if (args.length == 0) {
             System.out.println("Usage: java kc.SLexerTester file");

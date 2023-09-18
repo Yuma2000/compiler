@@ -8,9 +8,6 @@ import java.nio.file.Paths;
 
 /**
  * ファイルを一文字ずつスキャンするクラス
- * @author 19-1-037-0032 竹田有真
- * 問題番号: 問題2.7
- * 提出日: 2021年5月12日
  */
 class FileScanner {
 

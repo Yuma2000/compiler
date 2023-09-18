@@ -5,12 +5,8 @@ import java.util.ArrayList;
 /**
  * 変数表クラス
  * 変数クラスのVarをArrayListに格納し，それに対する処理をする
- * @author 19-1-037-0032 竹田有真
- * 問題番号: 問題2.11
- * 提出日: 2021年5月12日
  */
 class VarTable {
-	// フィールド
     /**
      * 変数表
      */
@@ -21,8 +17,6 @@ class VarTable {
 	 */
 	private int nextAddress;
 
-
-	// コンストラクタ
 	/**
 	 * ArrayList<Var>を一つ作り，varList で参照する
 	 * nextAddressを0に初期化する
