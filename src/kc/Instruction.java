@@ -1,7 +1,7 @@
 package kc;
 
 /**
- * PseudoIseg の要素．つまり１つの命令 を格納する要素の定義 
+ * PseudoIseg の要素．つまり１つの命令を格納する要素の定義
  */
 class Instruction {
     private Operator operator;  //オペレータ

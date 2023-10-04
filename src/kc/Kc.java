@@ -6,7 +6,6 @@ import java.util.ArrayList;
  * 字句解析器から受け取ったトークンを用いて構文解析，コード生成，制約検査を行うクラス
  */
 public class Kc {
-	// フィールド
 	/**
 	 * 使用する字句解析器
 	 */
@@ -37,7 +36,6 @@ public class Kc {
 	 */
 	private ArrayList<Integer>breakAddrList;
 
-	// コンストラクタ
     /**
      * ソースファイル名を引数とするコンストラクタ.
      */
