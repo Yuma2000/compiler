@@ -10,4 +10,4 @@ javac -d bin src/kc/*.java
 ```
 java -cp bin kc.Kc [コンパイルするファイル] [出力先ファイル]
 ```
-
+出力先ファイルの指定がなければ、OpCode.asm に出力される。
